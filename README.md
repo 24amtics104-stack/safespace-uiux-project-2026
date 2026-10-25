@@ -54,4 +54,4 @@ The design uses a dark navy background, purple buttons, and cyan highlights. Cle
 * Design screenshots
 
 ## Figma Design
-(https://www.figma.com/design/QGqmI1SGZVPmJdeZ1DgPNX/SafeSpace---Responsive-Landing-Page?node-id=0-1&t=OhYnVivfePtyz1CU-1)
+https://www.figma.com/design/QGqmI1SGZVPmJdeZ1DgPNX/SafeSpace---Responsive-Landing-Page?node-id=0-1&t=OhYnVivfePtyz1CU-1
